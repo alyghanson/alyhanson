@@ -8,8 +8,10 @@ function Intro() {
       <div className="Intro">
         <header className="Intro-header">
           <p>
-            <code>Put something way more interesting here.</code>
-            <Link to="home">Home</Link>
+            <code>Hey! I'm Aly, a Data Scientist.</code>
+          </p>
+          <p>
+            <Link className='link' to="home">Portfolio</Link>
           </p>
         </header>
       </div>
