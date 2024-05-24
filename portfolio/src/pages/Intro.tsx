@@ -11,7 +11,10 @@ function Intro() {
             <code>Hey! I'm Aly, a Data Scientist.</code>
           </p>
           <p>
-            <Link className='link' to="home">Portfolio</Link>
+            <Link className='link' to="res">Resume</Link>
+          </p>
+          <p>
+            <Link className='link' to="contact">Contact</Link>
           </p>
         </header>
       </div>

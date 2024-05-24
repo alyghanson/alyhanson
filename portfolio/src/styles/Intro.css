@@ -10,7 +10,8 @@
 
 .Intro-header {
   background-color: #f48a02;
-  /* background-color: #110C12; */
+  margin: 20px;
+  margin: auto;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -45,6 +46,9 @@
 .link {
   color: #031620;
   font-style: normal;
+  font-family: monospace;
+  font-size: 30px;
+  ;
 }
 .link:hover{
   color:antiquewhite

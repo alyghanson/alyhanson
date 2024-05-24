@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Layout from './pages/Layout';
-import Home from './pages/Home';
+import Res from './pages/Res';
 import Contact from './pages/Contact';
 import NoPage from './pages/NoPage';
 import Intro from "./pages/Intro";
@@ -17,7 +17,7 @@ export default function App() {
     <BrowserRouter>
       <Routes>
         <Route index element={<Intro />} />
-        <Route path="home" element={<Home />} />
+        <Route path="res" element={<Res />} />
         <Route path="contact" element={<Contact />} />
         <Route path="*" element={<NoPage />} />
       </Routes>
