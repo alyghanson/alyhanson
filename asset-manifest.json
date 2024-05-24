@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/alyghanson/alyghanson/static/css/main.0a13a413.css",
-    "main.js": "/alyghanson/alyghanson/static/js/main.dfb73a3a.js",
-    "index.html": "/alyghanson/alyghanson/index.html",
-    "main.0a13a413.css.map": "/alyghanson/alyghanson/static/css/main.0a13a413.css.map",
-    "main.dfb73a3a.js.map": "/alyghanson/alyghanson/static/js/main.dfb73a3a.js.map"
+    "main.css": "/alyghanson/static/css/main.0a13a413.css",
+    "main.js": "/alyghanson/static/js/main.dfb73a3a.js",
+    "index.html": "/alyghanson/index.html",
+    "main.0a13a413.css.map": "/alyghanson/static/css/main.0a13a413.css.map",
+    "main.dfb73a3a.js.map": "/alyghanson/static/js/main.dfb73a3a.js.map"
   },
   "entrypoints": [
     "static/css/main.0a13a413.css",
